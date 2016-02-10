@@ -19,3 +19,6 @@ The answer was too simple and I was too smart to see it #  Princess Bubblegum
  "Listen, Morty, I hate to break it to you but what people call 'love' is just a chemical reaction that compels animals to breed. # Rick Sanchez"
 
 "So, in conclusion, you're both equally mercurial, overly sensitive, clingy, hysterical bird-brain homunculi. And I honestly can't even tell the two of you apart half the time because I don't go by height or age, I go by amount of pain in my ass-which makes you both identical. All right, everything resolved? Everybody nice and certain about their position in my world? # Rick Sanchez"
+
+ "Rick, forgive me for doing this in notes. I'm not strong enough to do it in persons. I realize now that I'm attracted to you for the same reason I can't be with you. You can't change. And I have no problem with that, but it clearly means I have a problem with myself. I'm sure there's no perfect version of me. I'm sure I'll just unify species after species and never really be complete. But I know how it goes with us. I lose who I am and become part of you. Because in a strange way, you're better at what I do without even trying. Yours, and nobody else's... # Unity."
+];
